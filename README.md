@@ -13,7 +13,7 @@
 </p>
 
 
-<h1 align="center">👋 Hey there!</h1>
+# 👋 Hey there!
 I'm Rainz, a discord bot developer and a code helper!
 
 :muscle:  Currently creating discord bots and small projects.
@@ -22,13 +22,17 @@ I'm Rainz, a discord bot developer and a code helper!
 :dart:  Wasting my time to save other people's time and making there life easier 💯.
 
 
-<h2 align="center">🔧 Interests</h2>
-![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+## 🔧 Interests
+![JavaScript](https://img.icons8.com/color/30/javascript.png) : JavaScript
+![NodeJS](https://img.icons8.com/color/30/nodejs.png) : Node.js
+![NPM](https://img.icons8.com/color/30/npm.png) : NPM
+![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) : GitHub
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) : VSC
 
-<h2 align="center">🤩 My Community</h2>
-[Community](https://discord.gg/NhUUDaR4EG)
+## 🤩 My Community
+[Server](https://discord.gg/NhUUDaR4EG)
 
-<h2 align="center">🎯 My Activities</h2>
+## 🎯 My Activities
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=RainzCreations&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 
 
