@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.gg/NhUUDaR4EG"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://npmjs.com/package/ultrax"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Npm Package-red?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://npmjs.com/package/ultrax"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Npm Package-FF0000?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="https://discord.com/api/oauth2/authorize?client_id=881216199415984138&permissions=8&scope=bot%20applications.commands"><img alt="Bot" title="Bot" src="https://img.shields.io/badge/-Instagram-yellow?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/UltraX1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    
@@ -25,7 +25,7 @@ I'm Rainz, a discord bot developer and a code helper!
 
 ## 🔧 Interests
 
-![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 ## 🤩 My Community
 
