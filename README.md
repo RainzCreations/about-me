@@ -31,19 +31,17 @@ I'm Rainz, a discord bot developer and a code helper!
 
 Maybe grab a drink and come chill with us!
 
-[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)
+[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/NhUUDaR4EG)
 
 
 ## 🎯 My Activities
 
-<a style="text-decoration: none;" href="https://youtube.com/UltraX1">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=RainzCreations&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
 
 
 
 ----
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KarimX32" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=RainzCreations" alt="visitor badge"/>
 </p>
