@@ -1,14 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://discord.gg/NhUUDaR4EG">Rainz</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://discord.gg/NhUUDaR4EG">Rainz</a></h3>
 
 <p align="center">
   <a href="https://discord.gg/NhUUDaR4EG"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  
   <a href="https://npmjs.com/package/ultrax"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Npm Package-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
-  
   <a href="https://discord.com/api/oauth2/authorize?client_id=881216199415984138&permissions=8&scope=bot%20applications.commands"><img alt="Bot" title="Bot" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
   <a href="https://www.youtube.com/c/UltraX1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    
   
