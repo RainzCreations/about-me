@@ -14,27 +14,22 @@
 
 
 <h1 align="center">👋 Hey there!</h1>
-<p align="center">
 I'm Rainz, a discord bot developer and a code helper!
 
-:muscle:  Currently creating discord bots and small projects.\n
+:muscle:  Currently creating discord bots and small projects.
 :gift_heart:  Owner of Mercury Bot.
 ✊ Not perfect, but no one is!
 :dart:  Wasting my time to save other people's time and making there life easier 💯.
-</p>
+
 
 <h2 align="center">🔧 Interests</h2>
-<p align="center">
 ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-</p>
+
 <h2 align="center">🤩 My Community</h2>
-<p align="center">
 [Community](https://discord.gg/NhUUDaR4EG)
-</p>
+
 <h2 align="center">🎯 My Activities</h2>
-<p align="center">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=RainzCreations&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</p>
 
 
 ----
