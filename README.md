@@ -29,7 +29,7 @@ I'm Rainz, a discord bot developer and a code helper!
 
 ## 🤩 My Community
 
-[![Community]](https://discord.gg/NhUUDaR4EG)
+[!Community](https://discord.gg/NhUUDaR4EG)
 
 
 ## 🎯 My Activities
