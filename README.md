@@ -17,10 +17,10 @@
 <p align="center">
 I'm Rainz, a discord bot developer and a code helper!
 
-- :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of Mercury Bot.
-- ✊ Not perfect, but no one is!
-- :dart:  Wasting my time to save other people's time and making there life easier 💯.
+:muscle:  Currently creating discord bots and small projects.
+:gift_heart:  Owner of Mercury Bot.
+✊ Not perfect, but no one is!
+:dart:  Wasting my time to save other people's time and making there life easier 💯.
 </p>
 
 <h2 align="center">🔧 Interests</h2>
