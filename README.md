@@ -13,7 +13,7 @@
 </p>
 
 
-# 👋 Hey there!
+<h1 align="center">👋 Hey there!</h1>
 
 I'm Rainz, a discord bot developer and a code helper!
 
