@@ -12,6 +12,12 @@
   
 </p>
 
+# Bot
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Mercury%20Support)](https://discord.gg/Za9zxTH)
+[![](https://img.shields.io/discord/568120814776614924.svg?logo=discord&colorB=00BFFF&label=Mercury%20Emojis)](https://discord.gg/NPkySYKMkN)
+[![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://www.codefactor.io/repository/github/RainzCreations/Mercury/badge)](https://www.codefactor.io/repository/github/RainzCreations/Mercury)
+
 
 # 👋 Hey there!
 I'm Rainz, a discord bot developer and a code helper!
