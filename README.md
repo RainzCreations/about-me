@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://discord.gg/NhUUDaR4EG"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://npmjs.com/package/ultrax"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Npm Package-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=881216199415984138&permissions=8&scope=bot%20applications.commands"><img alt="Bot" title="Bot" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://npmjs.com/package/ultrax"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Npm Package-red?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=881216199415984138&permissions=8&scope=bot%20applications.commands"><img alt="Bot" title="Bot" src="https://img.shields.io/badge/-Instagram-yellow?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/UltraX1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    
   
